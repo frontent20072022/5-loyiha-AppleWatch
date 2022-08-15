@@ -140,6 +140,7 @@ body{
   background-color 0.3s ease;
   font-size: 18px;
   line-height: normal;
+  border: 1px solid transparent;
   font-weight: 700;
 }
 .btn:hover{
@@ -243,8 +244,6 @@ body{
 /* Selection */
 
 .selection{
-  width: 100%;
-  /* max-width: 1250px; */
   background-image: url(../img/runners.jpg);
   background-repeat: no-repeat;
   background-size: cover ;
